@@ -1,3 +1,3 @@
-opencv-contrib-python
-mediapipe
+opencv-contrib-python,
+mediapipe,
 pyautogui
