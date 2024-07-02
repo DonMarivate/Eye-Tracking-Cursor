@@ -1,5 +1,3 @@
-﻿# Eye-Tracking-Cursor
-
 # Eye-Tracking-Cursor
 
 Eye Tracking Cursor Project
